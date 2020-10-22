@@ -56,10 +56,11 @@
 		CD996A0F254228B4009CB20D /* About Me */ = {
 			isa = PBXGroup;
 			children = (
-				CD996A262542297A009CB20D /* Storyboards */,
-				CD996A27254229DA009CB20D /* Support Files */,
 				CD996A2A25422B1E009CB20D /* ViewControllers */,
-				CD996A19254228B6009CB20D /* Assets.xcassets */,
+				CD996A2D25422D77009CB20D /* Models */,
+				CD996A262542297A009CB20D /* Storyboards */,
+				CD996A2C25422CCD009CB20D /* Resourses */,
+				CD996A27254229DA009CB20D /* Support Files */,
 			);
 			path = "About Me";
 			sourceTree = "<group>";
@@ -89,6 +90,21 @@
 				CD996A14254228B4009CB20D /* ViewController.swift */,
 			);
 			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		CD996A2C25422CCD009CB20D /* Resourses */ = {
+			isa = PBXGroup;
+			children = (
+				CD996A19254228B6009CB20D /* Assets.xcassets */,
+			);
+			path = Resourses;
+			sourceTree = "<group>";
+		};
+		CD996A2D25422D77009CB20D /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
